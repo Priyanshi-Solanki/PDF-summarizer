@@ -6,16 +6,20 @@ This project allows users to upload PDF files and get a summarized version of th
 
 Below are screenshots of the application's main features:
 
-### Home Page (`home.PNG`)
+### Home Page
+![Home Page](home.PNG)
 The home page provides an overview of the application and guides users on how to get started with uploading and summarizing their PDF files.
 
-### Upload Page (`upload.PNG`)
+### Upload Page
+![Upload Page](upload.PNG)
 The upload page allows users to select and upload their PDF documents. It features a clean interface for easy file selection and submission.
 
-### PDF Upload Confirmation (`pdf upload.PNG`)
+### PDF Upload Confirmation
+![PDF Upload Confirmation](pdf%20upload.PNG)
 After uploading a PDF, users are shown a confirmation page indicating successful upload and providing options for further actions.
 
-### Custom Summary Page (`custom.PNG`)
+### Custom Summary Page
+![Custom Summary Page](custom.PNG)
 The custom summary page displays the summarized content of the uploaded PDF, allowing users to review and copy the summary as needed.
 
 ## Usage
